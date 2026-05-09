@@ -1,0 +1,529 @@
+country,city,station,parameter,value,date,source
+Nepal,Kathmandu,Embassy Kathmandu,pm25,54.5,2017-03-02 23:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,73.3,2017-03-03 00:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,76.1,2017-03-03 01:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,95.0,2017-03-03 02:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,209.0,2017-03-03 03:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,192.0,2017-03-03 04:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,342.0,2017-03-03 05:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,242.0,2017-03-03 06:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,157.0,2017-03-03 07:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,144.0,2017-03-03 08:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,144.0,2017-03-03 09:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,82.5,2017-03-03 10:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,49.6,2017-03-03 11:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,52.5,2017-03-03 12:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,52.2,2017-03-03 13:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,62.7,2017-03-03 14:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,71.9,2017-03-03 15:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,160.0,2017-03-03 16:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,184.0,2017-03-03 17:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,162.0,2017-03-03 18:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,154.0,2017-03-03 19:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,107.0,2017-03-03 20:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,80.6,2017-03-03 21:00:00+00:00,hours
+Nepal,Kathmandu,Embassy Kathmandu,pm25,80.6,2017-03-03 22:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,106.0,2017-03-02 23:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,135.0,2017-03-03 00:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,155.0,2017-03-03 01:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,155.0,2017-03-03 02:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,179.0,2017-03-03 03:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,144.0,2017-03-03 04:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,106.0,2017-03-03 05:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,72.1,2017-03-03 06:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,48.0,2017-03-03 07:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,40.0,2017-03-03 08:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,36.0,2017-03-03 09:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,48.5,2017-03-03 10:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,41.7,2017-03-03 11:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,42.3,2017-03-03 12:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,59.6,2017-03-03 13:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,70.3,2017-03-03 14:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,147.0,2017-03-03 15:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,180.0,2017-03-03 16:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,180.0,2017-03-03 17:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,142.0,2017-03-03 18:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,113.0,2017-03-03 19:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,106.0,2017-03-03 20:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,92.8,2017-03-03 21:00:00+00:00,hours
+Nepal,Phora Durbar Kathman,Phora Durbar Kathman,pm25,92.8,2017-03-03 22:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,75.8,2024-03-13 20:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,76.3,2024-03-13 21:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,76.3,2024-03-13 21:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,81.8,2024-03-13 22:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,81.8,2024-03-13 22:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,61.1,2024-03-14 12:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,70.7,2024-03-14 13:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,67.4,2024-03-14 14:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,73.9,2024-03-14 16:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,77.0,2024-03-14 17:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,76.9,2024-03-14 18:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,138.0,2024-03-15 00:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,135.0,2024-03-15 01:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,115.0,2024-03-15 02:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,95.2,2024-03-15 04:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,57.2,2024-03-15 05:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,54.5,2024-03-15 06:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,50.9,2024-03-15 07:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,43.9,2024-03-15 08:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,39.7,2024-03-15 09:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,38.3,2024-03-15 10:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,49.8,2024-03-15 11:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,58.6,2024-03-15 12:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm10,65.3,2024-03-15 13:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,14.5,2023-07-15 12:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,15.4,2023-07-15 13:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,32.5,2023-07-15 14:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,21.6,2023-07-15 15:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,26.9,2023-07-15 16:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,33.8,2023-07-15 20:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,29.8,2023-07-15 22:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,36.4,2023-07-15 23:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,28.6,2023-07-16 04:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,23.1,2023-07-16 07:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,23.9,2023-07-16 08:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,20.1,2023-07-16 10:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,15.2,2023-07-16 11:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,17.0,2023-07-16 12:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,17.0,2023-07-16 12:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,19.8,2023-07-16 13:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,19.8,2023-07-16 13:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,28.3,2023-07-16 14:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,28.3,2023-07-16 14:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,26.2,2023-07-16 15:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,26.2,2023-07-16 15:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,24.3,2023-07-16 16:00:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,24.3,2023-07-16 16:15:00+00:00,hours
+Nepal,"Dhathutole, Handigaun","Dhathutole, Handigaun",pm25,21.5,2023-07-16 17:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,52.5,2024-05-16 02:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,53.8,2024-05-16 03:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,50.0,2024-05-16 04:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,50.0,2024-05-16 04:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,37.3,2024-05-16 05:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,37.3,2024-05-16 05:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,39.0,2024-05-16 06:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,39.0,2024-05-16 06:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,44.0,2024-05-16 07:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,43.4,2024-05-16 08:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,43.4,2024-05-16 08:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,43.5,2024-05-16 09:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,43.5,2024-05-16 09:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,46.0,2024-05-16 10:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,48.2,2024-05-16 11:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,49.6,2024-05-16 12:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,49.6,2024-05-16 12:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,49.7,2024-05-16 13:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,49.7,2024-05-16 13:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,57.3,2024-05-16 14:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,63.7,2024-05-16 15:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,66.2,2024-05-16 16:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,64.4,2024-05-16 17:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm10,64.4,2024-05-16 17:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,43.4,2024-05-16 02:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,44.6,2024-05-16 03:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.8,2024-05-16 04:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.8,2024-05-16 04:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,33.2,2024-05-16 05:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,33.2,2024-05-16 05:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,34.3,2024-05-16 06:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,34.3,2024-05-16 06:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,37.5,2024-05-16 07:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,37.1,2024-05-16 08:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,37.1,2024-05-16 08:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,37.2,2024-05-16 09:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,37.2,2024-05-16 09:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,38.9,2024-05-16 10:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,40.5,2024-05-16 11:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.5,2024-05-16 12:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.5,2024-05-16 12:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.6,2024-05-16 13:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,41.6,2024-05-16 13:15:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,46.8,2024-05-16 14:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,51.4,2024-05-16 15:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,53.7,2024-05-16 16:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,51.9,2024-05-16 17:00:00+00:00,hours
+Nepal,"Dabali, Handigaun","Dabali, Handigaun",pm25,51.9,2024-05-16 17:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,38.0,2025-09-18 23:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,43.5,2025-09-19 00:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,38.2,2025-09-19 01:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,38.3,2025-09-19 02:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,50.1,2025-09-19 03:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,60.0,2025-09-19 04:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,47.6,2025-09-19 05:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,27.9,2025-09-19 06:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,18.5,2025-09-19 07:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,21.9,2025-09-19 08:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,28.5,2025-09-19 09:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,34.2,2025-09-19 10:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,37.5,2025-09-19 11:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,52.0,2025-09-19 12:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,66.9,2025-09-19 13:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,48.5,2025-09-19 14:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,43.9,2025-09-19 15:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,43.6,2025-09-19 16:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,40.4,2025-09-19 17:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,38.5,2025-09-19 18:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,34.3,2025-09-19 19:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,33.3,2025-09-19 20:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,13.8,2025-09-19 21:15:00+00:00,hours
+Nepal,Gaushala Chowk (SC-01) - GD Labs,Gaushala Chowk (SC-01) - GD Labs,pm25,21.2,2025-09-19 22:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,22.1,2025-09-25 06:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,6.31,2025-09-25 07:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,4.53,2025-09-25 08:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,5.09,2025-09-25 09:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,3.78,2025-09-25 10:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,5.51,2025-09-25 11:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,9.8,2025-09-25 12:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,23.2,2025-09-25 13:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,21.4,2025-09-25 14:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,24.3,2025-09-25 15:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,30.5,2025-09-25 16:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,30.2,2025-09-25 17:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,15.8,2025-09-25 18:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,16.6,2025-09-25 19:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,14.0,2025-09-25 20:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,14.5,2025-09-25 21:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,20.2,2025-09-25 22:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,25.4,2025-09-25 23:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,32.5,2025-09-26 00:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,37.2,2025-09-26 01:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,44.2,2025-09-26 02:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,43.4,2025-09-26 03:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,28.8,2025-09-26 04:15:00+00:00,hours
+Nepal,Baluwatar (SC-02) - GD Labs,Baluwatar (SC-02) - GD Labs,pm25,22.6,2025-09-26 05:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,17.8,2025-10-02 23:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,16.6,2025-10-03 00:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,23.5,2025-10-03 01:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,32.2,2025-10-03 02:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,35.1,2025-10-03 03:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,39.8,2025-10-03 04:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,44.7,2025-10-03 05:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,46.1,2025-10-03 06:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,39.3,2025-10-03 07:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,23.4,2025-10-03 08:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,15.9,2025-10-03 09:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,24.7,2025-10-03 10:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,27.4,2025-10-03 11:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,15.0,2025-10-03 12:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,33.0,2025-10-03 13:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,34.3,2025-10-03 14:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,31.0,2025-10-03 15:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,26.5,2025-10-03 16:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,18.6,2025-10-03 17:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,12.5,2025-10-03 18:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,6.95,2025-10-03 19:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,6.23,2025-10-03 20:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,5.59,2025-10-03 21:15:00+00:00,hours
+Nepal,Lagankhel (SC - 05) - GD Labs,Lagankhel (SC - 05) - GD Labs,pm25,5.89,2025-10-03 22:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,44.4,2025-12-24 07:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,44.5,2025-12-24 08:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,43.1,2025-12-24 09:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,53.1,2025-12-24 10:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,79.5,2025-12-24 11:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,87.7,2025-12-24 12:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,71.2,2025-12-24 13:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,111.0,2025-12-24 14:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,111.0,2025-12-24 15:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,99.9,2025-12-24 16:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,65.7,2025-12-24 17:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,51.9,2025-12-24 18:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,46.8,2025-12-24 19:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,51.2,2025-12-24 20:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,62.7,2025-12-24 21:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,61.7,2025-12-24 22:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,61.4,2025-12-24 23:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,66.5,2025-12-25 00:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,76.0,2025-12-25 01:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,84.5,2025-12-25 02:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,79.7,2025-12-25 03:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,55.8,2025-12-25 04:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,43.0,2025-12-25 05:15:00+00:00,hours
+Nepal,Sifal(SC-03)- GD Labs,Sifal(SC-03)- GD Labs,pm25,46.5,2025-12-25 06:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,42.9,2025-12-24 08:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,48.3,2025-12-24 09:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,71.2,2025-12-24 10:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,69.1,2025-12-24 11:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,82.8,2025-12-24 12:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,97.7,2025-12-24 13:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,114.0,2025-12-24 14:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,114.0,2025-12-24 15:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,86.5,2025-12-24 16:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,70.1,2025-12-24 17:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,53.6,2025-12-24 18:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,49.2,2025-12-24 19:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,47.9,2025-12-24 20:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,51.0,2025-12-24 21:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,71.4,2025-12-24 22:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,69.8,2025-12-24 23:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,73.0,2025-12-25 00:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,93.5,2025-12-25 01:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,105.0,2025-12-25 02:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,115.0,2025-12-25 03:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,50.2,2025-12-25 04:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,41.0,2025-12-25 05:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,42.7,2025-12-25 06:15:00+00:00,hours
+Nepal,Lamtangil (SC-04)- GD Labs,Lamtangil (SC-04)- GD Labs,pm25,43.7,2025-12-25 07:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,5.33,2025-09-18 23:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,9.64,2025-09-19 00:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,14.7,2025-09-19 01:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,14.8,2025-09-19 02:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,20.7,2025-09-19 03:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,31.0,2025-09-19 04:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,23.4,2025-09-19 05:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,20.8,2025-09-19 06:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,12.5,2025-09-19 07:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,6.82,2025-09-19 08:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,13.1,2025-09-19 09:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,18.8,2025-09-19 10:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,25.5,2025-09-19 11:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,29.9,2025-09-19 12:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,30.0,2025-09-19 13:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,31.5,2025-09-19 14:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,27.0,2025-09-19 15:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,20.2,2025-09-19 16:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,13.9,2025-09-19 17:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,8.87,2025-09-19 18:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,5.56,2025-09-19 19:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,3.05,2025-09-19 20:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,1.22,2025-09-19 21:15:00+00:00,hours
+Nepal,Pulchowk (SC-44) - GD Labs,Pulchowk (SC-44) - GD Labs,pm25,2.81,2025-09-19 22:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,7.16,2025-09-18 23:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,22.8,2025-09-19 00:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,22.3,2025-09-19 01:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,21.6,2025-09-19 02:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,19.6,2025-09-19 03:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,30.4,2025-09-19 04:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,19.0,2025-09-19 05:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,20.4,2025-09-19 06:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,8.4,2025-09-19 07:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,37.2,2025-09-20 03:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,23.9,2025-09-20 04:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,14.2,2025-09-20 05:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,6.0,2025-09-20 06:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,5.38,2025-09-20 07:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,8.6,2025-09-20 08:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,9.19,2025-09-20 09:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,11.8,2025-09-20 10:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,12.9,2025-09-20 11:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,20.6,2025-09-20 12:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,21.1,2025-09-20 13:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,15.1,2025-09-20 14:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,11.6,2025-09-20 15:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,8.96,2025-09-20 16:15:00+00:00,hours
+Nepal,Nakhipot (SC-08) - GD Labs,Nakhipot (SC-08) - GD Labs,pm25,8.4,2025-09-20 17:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,8.28,2025-09-18 23:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,17.4,2025-09-19 00:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,18.6,2025-09-19 01:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,10.1,2025-09-19 02:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,11.0,2025-09-19 03:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,20.2,2025-09-19 04:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,10.9,2025-09-19 05:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,9.09,2025-09-19 06:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,12.6,2025-09-19 07:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,14.6,2025-09-19 08:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,13.7,2025-09-19 09:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,20.3,2025-09-19 10:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,12.2,2025-09-19 11:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,15.1,2025-09-19 12:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,16.7,2025-09-19 13:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,11.7,2025-09-19 14:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,7.61,2025-09-19 15:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,8.17,2025-09-19 16:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,9.42,2025-09-19 17:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,9.54,2025-09-19 18:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,4.19,2025-09-19 19:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,2.59,2025-09-19 20:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,1.71,2025-09-19 21:15:00+00:00,hours
+Nepal,Sunakothi (SC - 06) - GD Labs,Sunakothi (SC - 06) - GD Labs,pm25,1.34,2025-09-19 22:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,3.45,2025-09-18 23:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,4.24,2025-09-19 00:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,6.31,2025-09-19 01:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,13.5,2025-09-19 02:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,11.4,2025-09-19 03:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,23.8,2025-09-19 04:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,24.4,2025-09-19 05:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,13.4,2025-09-19 06:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,7.78,2025-09-19 07:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,6.7,2025-09-19 08:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,10.4,2025-09-19 09:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,20.3,2025-09-19 10:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,20.1,2025-09-19 11:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,23.2,2025-09-19 12:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,38.6,2025-09-19 13:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,28.9,2025-09-19 14:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,24.0,2025-09-19 15:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,20.2,2025-09-19 16:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,16.4,2025-09-19 17:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,9.37,2025-09-19 18:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,6.75,2025-09-19 19:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,3.33,2025-09-19 20:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,2.12,2025-09-19 21:15:00+00:00,hours
+Nepal,Chovar (SC - 07) - GD Labs,Chovar (SC - 07) - GD Labs,pm25,12.3,2025-09-19 22:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,9.34,2025-09-18 23:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,15.9,2025-09-19 00:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,22.2,2025-09-19 01:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,23.5,2025-09-19 02:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,20.9,2025-09-19 03:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,22.2,2025-09-19 04:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,30.7,2025-09-19 05:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,19.1,2025-09-19 06:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,13.0,2025-09-19 07:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,12.0,2025-09-19 08:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,12.3,2025-09-19 09:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,34.1,2025-09-19 10:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,38.1,2025-09-19 11:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,40.9,2025-09-19 12:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,38.8,2025-09-19 13:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,31.4,2025-09-19 14:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,27.1,2025-09-19 15:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,20.6,2025-09-19 16:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,17.4,2025-09-19 17:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,13.6,2025-09-19 18:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,8.22,2025-09-19 19:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,7.84,2025-09-19 20:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,17.7,2025-09-19 21:15:00+00:00,hours
+Nepal,Taudaha (SC - 09) - GD Labs,Taudaha (SC - 09) - GD Labs,pm25,18.0,2025-09-19 22:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,9.27,2025-09-18 23:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,17.0,2025-09-19 00:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,23.4,2025-09-19 01:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,14.1,2025-09-19 02:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,14.7,2025-09-19 03:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,24.1,2025-09-19 04:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,19.7,2025-09-19 05:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,18.0,2025-09-19 06:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,10.5,2025-09-19 07:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,11.9,2025-09-19 08:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,16.0,2025-09-19 09:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,26.2,2025-09-19 10:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,19.1,2025-09-19 11:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,28.2,2025-09-19 12:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,25.0,2025-09-19 13:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,19.2,2025-09-19 14:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,16.1,2025-09-19 15:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,10.6,2025-09-19 16:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,10.1,2025-09-19 17:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,16.6,2025-09-19 18:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,7.54,2025-09-19 19:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,4.96,2025-09-19 20:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,3.84,2025-09-19 21:15:00+00:00,hours
+Nepal,"CEN-SR-25: Patako Chowk, Patan Durbar Square","CEN-SR-25: Patako Chowk, Patan Durbar Square",pm25,4.33,2025-09-19 22:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,9.91,2025-09-18 23:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,23.0,2025-09-19 00:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,32.0,2025-09-19 01:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,32.1,2025-09-19 02:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,26.3,2025-09-19 03:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,7.28,2025-09-19 04:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,6.16,2025-09-19 05:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,5.26,2025-09-19 06:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,8.22,2025-09-19 07:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,20.3,2025-09-19 08:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,6.77,2025-09-19 09:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,5.33,2025-09-19 10:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,9.26,2025-09-19 11:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,25.3,2025-09-19 12:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,41.6,2025-09-19 13:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,29.7,2025-09-19 14:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,25.4,2025-09-19 15:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,28.1,2025-09-19 16:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,13.2,2025-09-19 17:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,9.58,2025-09-19 18:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,13.3,2025-09-19 19:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,16.7,2025-09-19 20:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,19.1,2025-09-19 21:15:00+00:00,hours
+Nepal,Bharatpur Ward no 27 office Meghauli,Bharatpur Ward no 27 office Meghauli,pm25,15.7,2025-09-19 22:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,37.3,2025-11-07 05:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,25.9,2025-11-07 06:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,25.5,2025-11-07 07:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,22.9,2025-11-07 08:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,23.8,2025-11-07 09:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,21.9,2025-11-07 10:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,22.9,2025-11-07 11:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,29.0,2025-11-11 06:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,32.3,2025-11-11 07:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,26.6,2025-11-11 08:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,28.6,2025-11-11 09:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,31.9,2025-11-11 10:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,36.7,2025-11-11 11:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,43.7,2025-11-11 12:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,63.0,2025-11-11 13:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,85.5,2025-11-11 14:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,85.2,2025-11-11 15:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,72.2,2025-11-11 16:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,52.4,2025-11-11 17:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,46.1,2025-11-11 18:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,40.4,2025-11-11 19:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,47.6,2025-11-11 20:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,36.1,2025-11-11 21:15:00+00:00,hours
+Nepal,Farsidol Relocated,Farsidol Relocated,pm25,26.3,2025-11-11 22:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,13.5,2025-11-06 05:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,3.36,2025-11-06 06:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,3.17,2025-11-06 07:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,2.68,2025-11-06 08:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,4.01,2025-11-06 09:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,14.8,2025-11-06 10:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,28.8,2025-11-06 11:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,28.1,2025-11-06 12:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,27.3,2025-11-06 13:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,26.8,2025-11-06 14:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,22.7,2025-11-06 15:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,14.0,2025-11-06 16:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,22.4,2025-11-06 17:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,26.0,2025-11-06 18:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,17.5,2025-11-06 19:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,17.0,2025-11-06 20:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,9.27,2025-11-06 21:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,4.59,2025-11-06 22:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,5.39,2025-11-06 23:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,17.9,2025-11-07 00:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,31.5,2025-11-07 01:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,36.9,2025-11-07 02:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,32.9,2025-11-07 03:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Sub-Metropolitan City Office (CEN-SR-15),pm25,31.9,2025-11-07 04:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,28.7,2025-09-21 01:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,22.2,2025-09-21 02:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,27.8,2025-09-21 03:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,30.9,2025-09-21 04:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,32.6,2025-09-21 05:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,30.6,2025-09-21 06:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,29.4,2025-09-21 07:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,19.9,2025-09-21 08:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,17.9,2025-09-21 09:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,11.2,2025-09-21 10:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,20.2,2025-09-22 03:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,22.0,2025-09-22 04:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,28.4,2025-09-22 05:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,22.5,2025-09-22 06:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,22.9,2025-09-22 07:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,24.6,2025-09-22 08:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,23.3,2025-09-22 09:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,26.5,2025-09-22 10:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,31.0,2025-09-22 11:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,25.2,2025-09-23 03:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,23.8,2025-09-23 04:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,22.0,2025-09-23 05:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,23.7,2025-09-23 06:15:00+00:00,hours
+Nepal,Hetauda,Hetauda Udhyog Sang Office (CEN-SR-18),pm25,27.2,2025-09-23 07:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,10.2,2025-09-18 23:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,16.0,2025-09-19 00:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,22.1,2025-09-19 01:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,13.2,2025-09-19 02:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,13.7,2025-09-19 03:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,22.5,2025-09-19 04:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,18.5,2025-09-19 05:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,18.0,2025-09-19 06:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,8.42,2025-09-19 07:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,9.77,2025-09-19 08:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,15.0,2025-09-19 09:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,26.2,2025-09-19 10:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,18.1,2025-09-19 11:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,28.5,2025-09-19 12:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,24.4,2025-09-19 13:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,19.0,2025-09-19 14:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,16.0,2025-09-19 15:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,11.0,2025-09-19 16:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,10.4,2025-09-19 17:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,16.1,2025-09-19 18:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,8.16,2025-09-19 19:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,5.06,2025-09-19 20:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,3.8,2025-09-19 21:15:00+00:00,hours
+Nepal,CEN-SR-02: Farsidol Brick Factories,CEN-SR-02: Farsidol Brick Factories,pm25,4.51,2025-09-19 22:15:00+00:00,hours
